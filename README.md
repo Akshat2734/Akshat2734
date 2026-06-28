@@ -91,6 +91,24 @@ ML-powered precision agriculture platform featuring:
 
 ---
 
+| Layer                   | Stack                                  |
+| ----------------------- | -------------------------------------- |
+| 💻 **Languages**        | Python • TypeScript • JavaScript • C++ |
+| 🎨 **Frontend**         | React • Next.js • Tailwind CSS         |
+| ⚙️ **Backend**          | Flask • FastAPI • Node.js • Express    |
+| 🖥️ **Desktop**         | PyQt6                                  |
+| 🤖 **Machine Learning** | PyTorch • LightGBM                     |
+| 🗄️ **Databases**       | PostgreSQL • MongoDB • PostGIS         |
+| ⚡ **Caching**           | Redis                                  |
+| 📨 **Messaging**        | RabbitMQ • Apache Kafka                |
+| 🔄 **Task Queue**       | Celery                                 |
+| 📡 **Realtime**         | Socket.IO                              |
+| 🐳 **DevOps**           | Docker • Kubernetes • Nginx            |
+| 📊 **Monitoring**       | Prometheus • Grafana                   |
+| 💳 **Payments**         | Razorpay                               |
+
+---
+
 ## 🎯 Currently Learning
 
 - Distributed Systems
