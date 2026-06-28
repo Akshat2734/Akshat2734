@@ -58,36 +58,87 @@
 ## 🚀 Featured Projects
 
 ### 🔌 WireDesk
-Enterprise production order management system featuring:
-- Dynamic JSON-driven configurator
-- Flask REST API
-- PyQt6 Desktop Client
-- PostgreSQL Primary/Replica
-- PgBouncer
-- Redis Pub/Sub
-- Socket.IO
-- Docker Compose
-- Prometheus & Grafana
+**Enterprise production order management platform** built with a scalable desktop–backend architecture.
+
+**Technology Stack:** PyQt6 • Flask • PostgreSQL (Primary/Replica) • PgBouncer • Redis • Socket.IO • Docker Compose • Prometheus • Grafana • Nginx
+
+**Highlights**
+- Dynamic JSON-driven wire configurator
+- RESTful Flask API
+- Desktop application using PyQt6
+- PostgreSQL Primary/Replica replication
+- PgBouncer connection pooling
+- Redis Pub/Sub for real-time updates
+- Socket.IO live production dashboard
+- Dockerized deployment
+- Prometheus & Grafana monitoring
+
+---
 
 ### 💼 TalentIQ
-Distributed recruitment platform featuring:
-- Microservices Architecture
-- JWT Authentication
-- AI ATS Resume Analysis
-- Kafka Event-Driven Messaging
-- Razorpay Premium Subscriptions
-- Neon PostgreSQL
+**Distributed recruitment platform** designed with a microservices architecture for scalable hiring workflows.
+
+**Technology Stack:** Next.js • React • Node.js • Express • PostgreSQL (Neon) • Kafka • Redis • JWT • Razorpay • Docker
+
+**Highlights**
+- Microservices architecture
+- JWT Authentication & Authorization
+- AI-powered ATS Resume Analysis
+- Event-driven messaging with Kafka
+- Premium subscriptions via Razorpay
+- PostgreSQL (Neon) database
+- Distributed backend services
+
+---
 
 ### 🌱 TerraSense AI
-ML-powered precision agriculture platform featuring:
-- EfficientNet-B0
-- LightGBM
-- FastAPI
-- Celery
-- RabbitMQ
-- Redis
-- Google Earth Engine
-- PostGIS
+**Machine Learning–powered precision agriculture platform** leveraging satellite imagery and weather intelligence.
+
+**Technology Stack:** FastAPI • PyTorch • EfficientNet-B0 • LightGBM • Celery • RabbitMQ • Redis • PostgreSQL • PostGIS • Google Earth Engine • Docker
+
+**Highlights**
+- Crop recommendation using ML
+- Soil classification with EfficientNet-B0
+- LightGBM prediction engine
+- Satellite imagery processing
+- Google Earth Engine integration
+- Celery background workers
+- RabbitMQ task queue
+- Redis caching
+- Geospatial analysis with PostGIS
+
+---
+
+### 💻 CodeSpaceEd
+**Cloud-based collaborative code editor and community platform** featuring real-time code execution and premium subscriptions.
+
+**Technology Stack:** Next.js • React • TypeScript • Convex • Clerk • Monaco Editor • Zustand • Piston API • Lemon Squeezy • Tailwind CSS
+
+**Highlights**
+- Multi-language online compiler
+- Monaco Editor integration
+- Community code sharing
+- Real-time Convex backend
+- Clerk authentication
+- Premium subscriptions
+- Execution history
+- Sandboxed code execution via Piston API
+
+---
+
+### 🤖 WorkoutAI
+**AI-powered voice-interactive fitness planner** that creates personalized workout programs through conversational AI.
+
+**Technology Stack:** Next.js • React • TypeScript • Convex • Clerk • Vapi AI • Tailwind CSS • Radix UI
+
+**Highlights**
+- Voice-driven AI fitness coach
+- Personalized workout generation
+- Conversational planning using Vapi
+- Real-time synchronization with Convex
+- Secure Clerk authentication
+- Modern responsive dashboard
+- Interactive workout management
 
 ---
 
