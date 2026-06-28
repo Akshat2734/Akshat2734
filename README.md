@@ -86,56 +86,6 @@ ML-powered precision agriculture platform featuring:
 
 ---
 
-## 💻 Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-</p>
-
-### DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Akshat2734&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshat2734&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akshat2734&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Akshat2734&theme=algolia&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshat2734&theme=github-compact" />
-</p>
-
----
-
 ## 🎯 Currently Learning
 
 - Distributed Systems
@@ -152,9 +102,5 @@ ML-powered precision agriculture platform featuring:
 - LinkedIn: https://www.linkedin.com/in/akshat-midha-38233a301
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Akshat2734/Akshat2734/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 ⭐ **Thanks for visiting my profile!**
