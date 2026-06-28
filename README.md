@@ -45,6 +45,9 @@
 
 💻 I enjoy building scalable, production-ready applications ranging from real-time manufacturing systems to AI-powered platforms and distributed microservices.
 
+[📄 View Software Developer Resume](Akshat_Midha_SE_Resume.pdf)
+[📄 View Full-Stack Developer Resume](Akshat_Midha_Resume.pdf)
+
 ---
 
 | Layer                   | Stack                                  |
